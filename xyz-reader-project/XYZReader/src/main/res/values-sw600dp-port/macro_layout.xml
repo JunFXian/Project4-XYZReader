@@ -1,0 +1,20 @@
+<resources>
+    <!-- list -->
+    <integer name="list_column_count">1</integer>
+    <bool name="isTabletLand">false</bool>
+    <bool name="isTabletPort">true</bool>
+    <dimen name="list_toolbar_padding_top">16dp</dimen>
+    <dimen name="list_recyclerview_layout_height">250dp</dimen>
+
+    <!-- detail -->
+    <bool name="detail_is_card">true</bool>
+
+    <dimen name="detail_card_top_margin">256dp</dimen>
+    <dimen name="detail_photo_height">384dp</dimen>
+    <dimen name="detail_inner_horiz_margin">64dp</dimen>
+    <dimen name="detail_metabar_vert_padding">32dp</dimen>
+    <dimen name="detail_metabar_title_bottom_padding">8dp</dimen>
+    <dimen name="detail_body_bottom_margin">96dp</dimen>
+    <dimen name="detail_image_minwidth">356dp</dimen>
+    <dimen name="detail_image_minheight">100dp</dimen>
+</resources>

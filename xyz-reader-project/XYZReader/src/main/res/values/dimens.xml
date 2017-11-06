@@ -1,0 +1,40 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <dimen name="detail_body_text_size">16sp</dimen>
+    <dimen name="detail_view_pager_overlap_top">78dp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+
+    <dimen name="appbar_elevation">4dp</dimen>
+
+    <dimen name="list_top_padding">8dp</dimen>
+    <dimen name="list_bottom_padding">28dp</dimen>
+
+    <dimen name="title_size">16sp</dimen>
+    <dimen name="subtitle_size">12sp</dimen>
+
+    <dimen name="detail_expanded_title_margin_start">64dp</dimen>
+    <dimen name="detail_expanded_title_margin_end">112dp</dimen>
+
+    <dimen name="detail_toolbar_elevation">4dp</dimen>
+    <dimen name="detail_toolbar_padding_top">16dp</dimen>
+    <dimen name="detail_metabar_elevation">4dp</dimen>
+    <dimen name="detail_cardview_margin">8dp</dimen>
+    <dimen name="detail_cardview_cornerradius">4dp</dimen>
+    <dimen name="detail_cardview_elevation">2dp</dimen>
+    <dimen name="detail_cardview_padding">16dp</dimen>
+
+    <dimen name="detail_fab_elevation">6dp</dimen>
+    <dimen name="detail_fab_translationZ">6dp</dimen>
+    <dimen name="detail_fab_margin">16dp</dimen>
+    
+    <dimen name="list_item_cardview_margin">4dp</dimen>
+    <dimen name="list_item_cardview_cornerradius">6dp</dimen>
+    <dimen name="list_item_text_padding">16dp</dimen>
+    <dimen name="list_item_title_padding_bottom">4dp</dimen>
+
+</resources>
